@@ -7,6 +7,7 @@
 -  🔸 C/C++
 -  🔸 Python
 -  🔸 JavaScript
+-  🔸 HTML/CSS 
 -  
 - 🔷 I am particularly interested in Web applications, front-end and back-end web development. The relavent classes that I have taken are
 -  🔹Database systems
@@ -29,7 +30,7 @@
 -  
 - 🟡 Going forward, I am really interested to dive into the web-development world. My programming journey have been only 5 years, but I confident that I am improving 
      and growing at an incredible rate and I would like to offer my skills and determination to those whoever want to take a chance on me. 
--
+
 
 
 
