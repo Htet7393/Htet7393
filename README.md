@@ -1,5 +1,5 @@
-- 👋 Hi, My name is Htet Naing. My emial is htetkonaing@proton.me.
-- 👀 I am about to obtain my Bachelor's in Computer Science with emaphasis in Entertainment Art and Engineering from University of Utah in Salt Lake City Utah. I also have a diploma in Electrical Engineering from Singapore Polytechnic in Singapore and I had 4 years of work experience as a junior Electrical Engineer.
+- 👋 Hi, My name is Htet Naing. My email is htetkonaing@proton.me.
+- 👀 I have obtained my Bachelor's in Computer Science with emaphasis in Entertainment Art and Engineering from University of Utah in Salt Lake City Utah. I also have a diploma in Electrical Engineering from Singapore Polytechnic in Singapore and I had 4 years of work experience as a junior Electrical Engineer.
 - 
 - 🔶 The programming languages I know are:
 -  🔸 C#
