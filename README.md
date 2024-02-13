@@ -22,7 +22,6 @@
 -  ◾ A mini excel program written in C# - An excel like application with limited functionalities. Provide more examples...
 -  ◾ A sprite editor program written in C++ - 
 -  ◾ A probability simulator using QT and written in C++ - 
--  ◾ A tic-tac toe game program using Java -
 -  
 - ⬜ For my emphasis in Entertainmen Art and Engineering, I did projects in developing the following games
 -  ◽ Chromatophobia - A 3D top-down game
