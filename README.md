@@ -15,17 +15,16 @@
 - 🔷 The Frameworks that I am familiar with are
 -  🔹 ASP.NET
 - 🔷 The projects that I have done so far are
--  🔹Teaching Assistant Application project - I built a demo web page that allows students to register accounts and apply for teaching assistant positions at the           University of Utah. The web application is not a real University of Utah web page but a prototype project with features that would be implemented if a teaching         assistant application were to be developed. 
+-  🔹Teaching Assistant Application project - I built a demo web page that allows students to register accounts and apply for teaching assistant positions at the           University of Utah. The web application is not a real University of Utah web page but a prototype project with features that would be implemented if a teaching assistant application were to be developed. 
 -  🔹 A Selenium web-scraper - I build a Selenium web-scraper to scrape courses offered by the University of Utah.
 -     
 - ⬛ I am also interested and software and applications development. The relevant applications I have developed so far are
 -  ◾ A mini excel program written in C# - An excel like application with limited functionalities. Provide more examples...
--  ◾ A sprite editor program written in C++ - 
--  ◾ A probability simulator using QT and written in C++ - 
+-  ◾ A sprite editor program written in C++
+-  ◾ A probability simulator using QT and written in C++ 
 -  
 - ⬜ For my emphasis in Entertainmen Art and Engineering, I did projects in developing the following games
--  ◽ Chromatophobia - A 3D top-down game
--  ◽ A mini narrative game - 
+-  ◽ Chromatophobia - A 3D top-down game 
 -  
 - 🟡 Going forward, I am really interested to dive into the web-development world. My programming journey have been only 5 years, but I confident that I am improving 
      and growing at an incredible rate and I would like to offer my skills and determination to those whoever want to take a chance on me. 
